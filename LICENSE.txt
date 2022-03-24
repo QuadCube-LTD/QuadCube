@@ -1,0 +1,40 @@
+QuadCube のライセンスについて
+Copyright (c) 2022 QuadCube Limited
+
+
+QuadCube を使用することにより、下記の QuadCube のライセンスを理解、了承したこととします。
+QuadCube のライセンスはデュアルライセンス方式です。 
+利用目的に応じてライセンスを選択することができます。
+
+
+(1) 商用目的での使用
+商用目的での使用の場合には、有償のプランを選択してください。
+詳細は「価格・販売」ページ（https://www.derimo.net/qc_price/）をご覧ください。
+お問い合せページ（https://www.derimo.net/contact/）
+
+
+(2) 非商用目的、および教育目的での使用
+非商用目的および教育目的で使用する場合は『MIT License』を選択できます。
+---------------------------------------------------------
+MIT License
+
+Copyright (c) 2022 QuadCube Limited
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+---------------------------------------------------------
